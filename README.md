@@ -47,8 +47,8 @@ Research codes accompanying several of my publications are publicly available in
   - [Passivity_Limitation](https://github.com/lingo01/Passivity_Limitation): corresponds to "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," 2026.
 
 - **EMT Simulation and Modeling Tools (Developed for CloudPSS)**
-  - [Electromagnetic_Parameter_Check](https://github.com/lingo01/Electromagnetic_Parameter_Check)
-  - [Admittance_Mat_Gen](https://github.com/lingo01/Admittance_Mat_Gen)
+  - [Electromagnetic_Parameter_Check](https://github.com/lingo01/Electromagnetic_Parameter_Check): a Python tool for CloudPSS EMT simulation model parameter checking, validation, and correction.
+  - [Admittance_Mat_Gen](https://github.com/lingo01/Admittance_Mat_Gen): a Python tool for generating system admittance matrices from CloudPSS power-flow models for power-system stability analysis.
 
 ---
 
