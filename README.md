@@ -1,12 +1,13 @@
 # Xiaoyu Peng
 
-Ph.D. Student in Electrical Engineering  
-Department of Electrical Engineering, Tsinghua University
+Ph.D. Student in Electrical Engineering, Department of Electrical Engineering, Tsinghua University
 
 I work at the intersection of **power-system dynamics and control theory**, focusing on stability analysis, control, and fundamental limitations in inverter-dominated power systems. My research aims to uncover structural constraints that determine achievable stability, dynamic performance, and distributed stability certification, while developing physically interpretable and scalable methods connecting system-level dynamics with device-level assessment and control.
 
 - Academic CV: [Curriculum Vitae](https://github.com/lingo01/lingo01/blob/master/CV_Xiaoyu_Peng.pdf)
 - Google Scholar: [https://scholar.google.com/citations?user=gSBEOOIAAAAJ](https://scholar.google.com/citations?user=gSBEOOIAAAAJ)
+
+Email: [pengxy19@tsinghua.org.cn](mailto:pengxy19@tsinghua.org.cn)
 
 ---
 
@@ -51,9 +52,3 @@ Research codes accompanying several of my publications are publicly available in
 - **EMT Simulation and Modeling Tools (Developed for CloudPSS)**
   - [Electromagnetic_Parameter_Check](https://github.com/lingo01/Electromagnetic_Parameter_Check): a Python tool for CloudPSS EMT simulation model parameter checking, validation, and correction.
   - [Admittance_Mat_Gen](https://github.com/lingo01/Admittance_Mat_Gen): a Python tool for generating system admittance matrices from CloudPSS power-flow models for power-system stability analysis.
-
----
-
-## Contact
-
-Email: [pengxy19@tsinghua.org.cn](mailto:pengxy19@tsinghua.org.cn)
