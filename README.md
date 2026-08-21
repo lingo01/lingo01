@@ -33,6 +33,8 @@ Representative works:
 - X. Peng, X. Ru, Z. Li, J. Zhang, X. Chen, and F. Liu, "Positive Damping Region: A Graphic Tool for Passivization Analysis with Passivity Index," 2026.
 
 
+---
+
 ## Open-Source Research Codes
 
 Research codes accompanying several of my publications are publicly available in my GitHub repositories:
