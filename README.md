@@ -21,7 +21,6 @@ Representative works:
 - X. Peng, Z. Li, C. Fu, P. Yang, and F. Liu, "Impact of Angle-Voltage Coupling on Small-Signal Stability of Power Systems: A Damping Perspective," *IEEE Transactions on Circuits and Systems I*, 2025.
 - X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis," *IEEE Transactions on Automation Science and Engineering*, 2026.
 
----
 
 ### Passivity-Based Distributed Stability Analysis
 
@@ -33,7 +32,6 @@ Representative works:
 - X. Peng, Z. Li, X. Ru, X. Chen, and F. Liu, "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," 2026.
 - X. Peng, X. Ru, Z. Li, J. Zhang, X. Chen, and F. Liu, "Positive Damping Region: A Graphic Tool for Passivization Analysis with Passivity Index," 2026.
 
----
 
 ## Open-Source Research Codes
 
