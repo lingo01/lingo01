@@ -13,7 +13,7 @@ Email: [pengxy19@tsinghua.org.cn](mailto:pengxy19@tsinghua.org.cn)
 
 ## Research
 
-### Power-System Stability under Angle–Voltage Coupling
+### Power-System Stability under Angle–Voltage Coupling: Analysis, Control, and Fundamental Limitations
 
 I study how phase-angle and voltage-magnitude interactions affect the stability and dynamic performance of modern power systems, including stability mechanisms, damping redistribution, dynamic decoupling control, and fundamental performance limitations.
 
@@ -23,7 +23,7 @@ Representative works:
 - X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis," *IEEE Transactions on Automation Science and Engineering*, 2026.
 
 
-### Passivity-Based Distributed Stability Analysis
+### Passivity-Based Distributed Stability Analysis: Compositionality, Visualization, and Fundamental Limitations
 
 I investigate passivity-based approaches for scalable stability assessment of heterogeneous networked systems, including compositional stability certification, geometric passivization, and structural limitations of passivity-based analysis.
 
