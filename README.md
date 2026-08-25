@@ -4,8 +4,8 @@ Ph.D. Student in Electrical Engineering, Department of Electrical Engineering, T
 
 I work at the intersection of **power-system dynamics and control theory**, focusing on stability analysis, control, and fundamental limitations in inverter-dominated power systems. My research aims to uncover structural constraints that determine achievable stability, dynamic performance, and distributed stability certification, while developing physically interpretable and scalable methods connecting system-level dynamics with device-level assessment and control.
 
-- Academic CV: [Curriculum Vitae](https://github.com/lingo01/lingo01/blob/master/CV_Xiaoyu_Peng.pdf)
-- Google Scholar: [https://scholar.google.com/citations?user=gSBEOOIAAAAJ](https://scholar.google.com/citations?user=gSBEOOIAAAAJ)
+- [Academic CV](https://github.com/lingo01/lingo01/blob/master/CV_Xiaoyu_Peng.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=gSBEOOIAAAAJ)
 
 Email: [pengxy19@tsinghua.org.cn](mailto:pengxy19@tsinghua.org.cn)
 
