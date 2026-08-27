@@ -19,8 +19,8 @@ I study how phase-angle and voltage-magnitude interactions affect the stability 
 
 Representative works:
 
-- X. Peng, Z. Li, C. Fu, P. Yang, and F. Liu, "Impact of Angle-Voltage Coupling on Small-Signal Stability of Power Systems: A Damping Perspective," *IEEE Transactions on Circuits and Systems I*, 2025. Code Avaliable at [Damping_Redistribution](https://github.com/lingo01/Damping_Redistribution).
-- X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis," *IEEE Transactions on Automation Science and Engineering*, 2026. Code Avaliable at [Waterbed_Effect](https://github.com/lingo01/Waterbed_Effect).
+- X. Peng, Z. Li, C. Fu, P. Yang, and F. Liu, "Impact of Angle-Voltage Coupling on Small-Signal Stability of Power Systems: A Damping Perspective," *IEEE Transactions on Circuits and Systems I*, 2025. [Open-Source Code](https://github.com/lingo01/Damping_Redistribution).
+- X. Peng, Z. Li, C. Fu, P. Yang, Z. Wang, and F. Liu, "Stability Degradation Induced by Angle–Voltage Coupling in Power Systems: Bode-Type Fundamental Performance Limitation Analysis," *IEEE Transactions on Automation Science and Engineering*, 2026. [Open-Source Code](https://github.com/lingo01/Waterbed_Effect).
 
 
 ### Passivity-Based Distributed Stability Analysis: Compositionality, Visualization, and Fundamental Limitations
@@ -29,9 +29,9 @@ I investigate passivity-based approaches for scalable stability assessment of he
 
 Representative works:
 
-- X. Peng, C. Fu, P. Yang, Z. Wang, and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," *IEEE Transactions on Power Systems*, 2026. Code Avaliable at [Compositional_Grid_Code](https://github.com/lingo01/Compositional_Grid_Code).
-- X. Peng, Z. Li, X. Ru, X. Chen, and F. Liu, "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," 2026. Code Avaliable at [Geometric_Passivization](https://github.com/lingo01/Geometric_Passivization)
-- X. Peng, X. Ru, Z. Li, J. Zhang, X. Chen, and F. Liu, "Positive Damping Region: A Graphic Tool for Passivization Analysis with Passivity Index," 2026. Code Avaliable at [Passivity_Limitation](https://github.com/lingo01/Passivity_Limitation)
+- X. Peng, C. Fu, P. Yang, Z. Wang, and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," *IEEE Transactions on Power Systems*, 2026. [Open-Source Code](https://github.com/lingo01/Compositional_Grid_Code).
+- X. Peng, X. Ru, Z. Li, J. Zhang, X. Chen, and F. Liu, "Positive Damping Region: A Graphic Tool for Passivization Analysis with Passivity Index," 2026. [Open-Source Code](https://github.com/lingo01/Geometric_Passivization).
+- X. Peng, Z. Li, X. Ru, X. Chen, and F. Liu, "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," 2026. [Open-Source Code](https://github.com/lingo01/Passivity_Limitation).
 
 
 ---
