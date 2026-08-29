@@ -31,7 +31,7 @@ Representative works:
 
 - X. Peng, C. Fu, P. Yang, Z. Wang, and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," *IEEE Transactions on Power Systems*, 2026. [Open-Source Code](https://github.com/lingo01/Compositional_Grid_Code).
 - X. Peng, X. Ru, Z. Li, J. Zhang, X. Chen, and F. Liu, "Positive Damping Region: A Graphic Tool for Passivization Analysis with Passivity Index," 2026. [Open-Source Code](https://github.com/lingo01/Geometric_Passivization).
-- X. Peng, Z. Li, X. Ru, X. Chen, and F. Liu, "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," 2026. [Open-Source Code](https://github.com/lingo01/Passivity_Limitation).
+- X. Peng, Z. Li, X. Ru, X. Chen, and F. Liu, "Relative-Degree Wall Restricts Passivity-Based Stability Analysis in Inverter-Dominated Grids," *IEEE Transactions on Power Systems*, 2026. [Open-Source Code](https://github.com/lingo01/Passivity_Limitation).
 
 
 ---
